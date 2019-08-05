@@ -1,0 +1,6 @@
+framework module WFApplyChargePile {
+  umbrella header "WFApplyChargePile-umbrella.h"
+
+  export *
+  module * { export * }
+}
